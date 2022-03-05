@@ -19,13 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamshaunjp/node-express-jwt-auth.git"
+    "url": "https://github.com/AbhilashS05/LMS_StigeProject"
   },
   "keywords": [],
-  "author": "",
+  "author": "Abhilash S",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamshaunjp/node-express-jwt-auth/issues"
+    "url": "https://github.com/AbhilashS05/LMS_StigeProject"
   },
-  "homepage": "https://github.com/iamshaunjp/node-express-jwt-auth#readme"
+  "homepage": "https://lms-05.herokuapp.com"
 }
