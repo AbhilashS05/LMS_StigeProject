@@ -1,0 +1,24 @@
+<%- include('partials/header'); -%>
+
+    <body>
+        <div><a href="/learning">My Dashboard</a></div>
+        <div class="profilename">My Profile</div>
+        <div class="container">
+            <div class="items">
+                <div class="item1">
+                    <p>UserName :</p>
+                    <p>
+                        <%= user.name %>
+                    </p>
+                </div>
+                <div class="item1">
+                    <p>Registered Email :</p>
+                    <p>
+                        <%= user.email %>
+                    </p>
+                </div>
+            </div>
+
+        </div>
+
+        <%- include('partials/footer'); -%>
